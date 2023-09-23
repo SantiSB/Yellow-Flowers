@@ -66,7 +66,9 @@ Once your pull request is approved and any requested changes are addressed, your
 
 ## 👨‍💻 Tech Stack:
 
-
+![html](https://github.com/SantiSB/yellow-flowers/assets/55597241/4b4476af-70ca-4a0d-bcaa-c1a657e4619a)
+![sass](https://github.com/SantiSB/yellow-flowers/assets/55597241/f833e0bc-a529-4df0-aea0-908ffe9e5ee9)
+![javascript](https://github.com/SantiSB/yellow-flowers/assets/55597241/8abfb2db-c6d1-49a6-9327-359afd5eb6bf)
 
  | [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
  | [Sass](https://sass-lang.com/)
