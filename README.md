@@ -7,7 +7,7 @@ This application showcases a stunning collection of vibrant yellow flowers that 
 On November 21st, people exchange yellow flowers as a symbol of friendship and warmth. These sunny blooms represent the joy of connecting with loved ones and spreading happiness. Explore this digital bouquet and celebrate the spirit of gifting yellow flowers on this special day! 🌼💛
 
 ## Check It Out
-👉 [Yellow Flowers 📺](https://santisb.github.io/yellow-flowers/) 
+👉 [Yellow Flowers 🌼💛](https://santisb.github.io/yellow-flowers/) 
 
 ## 👨‍💻 How to Contribute
 I'm thrilled to have you contribute to the Beautiful Yellow Flowers App!
